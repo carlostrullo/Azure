@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/FigitalSolutions/b88ac302-f26d-4d15-ab41-5e3cf948eb0c/4a79a682-6b6d-4b35-b657-3800b99d072b/_apis/work/boardbadge/927a6f96-071b-4b7e-ba92-b77adf178dd2)](https://dev.azure.com/FigitalSolutions/b88ac302-f26d-4d15-ab41-5e3cf948eb0c/_boards/board/t/4a79a682-6b6d-4b35-b657-3800b99d072b/Microsoft.RequirementCategory)
 # Azure
